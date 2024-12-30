@@ -6,9 +6,7 @@ The bot general purpose is to lookup players stats and display it in Discord. Al
 
 
 ## Usage/Examples
-
-```javascript
-/rank shroud - Will lookup the player "Shroud" and display his rank stats
-/map - Will display the current rank map and the next rank map
 ```
-
+/rank <username> <platform>
+/map 
+```
